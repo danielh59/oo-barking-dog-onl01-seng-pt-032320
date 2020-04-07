@@ -7,7 +7,7 @@ def name= (the_name)
   @a_name = the_name 
 end 
 def name
-  @the_name
+  @a_name
 end 
 end 
 
