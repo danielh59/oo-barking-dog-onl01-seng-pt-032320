@@ -1,6 +1,8 @@
 # Your code goes here!
 class = Dog
-  
+  def bark
+puts "Woof!"
+end 
 def name=(the_name)
   a_name = the_name 
 end 
