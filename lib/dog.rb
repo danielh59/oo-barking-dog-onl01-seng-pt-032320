@@ -1,5 +1,6 @@
 # Your code goes here!
-class = Dog.new 
+class = Dog
+  
 def name=(the_name)
   a_name = the_name 
 end 
