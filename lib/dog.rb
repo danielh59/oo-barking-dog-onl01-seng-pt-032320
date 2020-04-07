@@ -4,10 +4,10 @@ class Dog
 puts "woof!"
 end 
 def name= (the_name)
-  a_name = the_name 
+  @a_name = the_name 
 end 
 def name
-  the_name
+  @the_name
 end 
 end 
 
